@@ -1,0 +1,15 @@
+====================
+Entrada: in-7.txt
+Timeout exceeded: 1s
+====================
+Entrada: perf-in-8.txt
+Timeout exceeded: 1s
+====================
+Entrada: perf-in-9.txt
+Timeout exceeded: 2s
+====================
+Entrada: perf-in-10.txt
+Timeout exceeded: 3s
+====================
+Entrada: perf-in-11.txt
+Timeout exceeded: 3s

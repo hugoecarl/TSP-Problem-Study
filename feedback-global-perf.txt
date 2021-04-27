@@ -1,0 +1,18 @@
+====================
+Entrada: in-5.txt
+Caminho Tem Distancia Mostrada True
+Opt 1 True
+Passa Por Todas Cidades True
+Tour Otimo True
+====================
+Entrada: in-6.txt
+Caminho Tem Distancia Mostrada True
+Opt 1 True
+Passa Por Todas Cidades True
+Tour Otimo True
+====================
+Entrada: in-7.txt
+Caminho Tem Distancia Mostrada True
+Opt 1 True
+Passa Por Todas Cidades True
+Tour Otimo True

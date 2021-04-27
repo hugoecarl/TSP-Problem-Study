@@ -1,0 +1,12 @@
+====================
+Entrada: in10.txt
+Caminho Tem Distancia Mostrada True
+Passa Por Todas Cidades True
+====================
+Entrada: in11.txt
+Caminho Tem Distancia Mostrada True
+Passa Por Todas Cidades True
+====================
+Entrada: in12.txt
+Caminho Tem Distancia Mostrada True
+Passa Por Todas Cidades True
